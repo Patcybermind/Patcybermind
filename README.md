@@ -1,11 +1,42 @@
-# You've found my github!
+# Hi there, I'm Pat! 👋
 
-Hey! I'm Pat, 16, living in Quebec Canada.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=70" />
+</p>
 
-- 🔭 I’m currently working on A robotic arm.
-- 🌱 I’m currently learning AI / ML, Hardware and electronics.
-- 👯 I’m looking to collaborate on anything fun and interesting! And your welcome to help in anything I'm building.
-- 🤔 I’m looking for help with mentorship / people I can really learn from in the stem space.
-- 📫 How to reach me: Any of my socials works but email and Instagram are best.
-- ⚡ Fun fact: I've technically fired a missile at canadian military base.
+I'm a 16-year-old developer and hardware enthusiast from Quebec, Canada. I love bridging the gap between software and the physical world.
 
+### 🚀 About Me
+
+- 🔭 **Currently building:** A robotic arm.
+- 🌱 **Currently learning:** AI / ML, advanced hardware design, and electronics.
+- 👯 **Looking to collaborate on:** Anything fun, interesting, or disruptive in the STEM space! Feel free to jump into any of my open repositories.
+- 🤔 **Seeking:** Mentorship from experienced folks in the STEM, AI, or hardware fields.
+- ⚡ **Fun fact:** I've technically fired a "missile" at a Canadian military base.
+
+### 🛠️ Tech Stack & Tools
+
+*Languages & Frameworks* ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+*Hardware & Engineering* ![Hardware](https://img.shields.io/badge/Hardware-Electronics-blue?style=for-the-badge&logo=arduino&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI_/_ML-Neural_Networks-ff69b4?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🌟 Featured Projects
+* **NOMAD:** Natively Open, Modular Architecture Device – an open-source WIP laptop project.
+* **SkyCell:** A prototype telecommunications solution on a balloon for off-grid connectivity.
+* **helper-1:** A 3D printer designed specifically for building plane wings and large-scale objects.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Patcybermind&show_icons=true&theme=radium&hide_border=true" alt="Pat's GitHub Stats" />
+</p>
+
+### 📫 Let's Connect!
+
+<p align="left">
+  <a href="mailto:patcybermind@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
