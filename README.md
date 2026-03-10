@@ -30,8 +30,9 @@ I'm a 16-year-old developer and hardware enthusiast from Quebec, Canada. I love 
 
 
 ### 📊 GitHub Stats
-
-![Pat's Metrics](https://metrics.lecoq.io/Patcybermind?template=classic)
+![GitHub followers](https://img.shields.io/github/followers/Patcybermind?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/Patcybermind?style=social)
+![GitHub repos](https://img.shields.io/github/repos/Patcybermind?style=social)
 
 ### 📫 Let's Connect!
 
