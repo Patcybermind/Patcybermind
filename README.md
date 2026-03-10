@@ -30,9 +30,8 @@ I'm a 16-year-old developer and hardware enthusiast from Quebec, Canada. I love 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patcybermind&show_icons=true&theme=radium&hide_border=true" alt="Pat's GitHub Stats" />
-</p>
+
+[![Pat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patcybermind&show_icons=true&theme=radium&hide_border=true)](https://github.com/Patcybermind)
 
 ### 📫 Let's Connect!
 
