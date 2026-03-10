@@ -28,9 +28,10 @@ I'm a 16-year-old developer and hardware enthusiast from Quebec, Canada. I love 
 * **SkyCell:** A prototype telecommunications solution on a balloon for off-grid connectivity.
 * **helper-1:** A cheap 3D printer designed specifically for building plane wings and large-scale objects.
 
+
 ### 📊 GitHub Stats
 
-[![Pat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patcybermind&show_icons=true&theme=radium&hide_border=true&v=1)](https://github.com/Patcybermind)
+![Pat's Metrics](https://metrics.lecoq.io/Patcybermind?template=classic)
 
 ### 📫 Let's Connect!
 
