@@ -9,7 +9,7 @@ I'm a 16-year-old developer and hardware enthusiast from Quebec, Canada. I love 
 ### 🚀 About Me
 
 - 🔭 **Currently building:** A robotic arm.
-- 🌱 **Currently learning:** AI / ML, advanced hardware design, and electronics.
+- 🌱 **Currently learning:** AI / ML, hardware design, and electronics.
 - 👯 **Looking to collaborate on:** Anything fun, interesting, or disruptive in the STEM space! Feel free to jump into any of my open repositories.
 - 🤔 **Seeking:** Mentorship from experienced folks in the STEM, AI, or hardware fields.
 - ⚡ **Fun fact:** I've technically fired a "missile" at a Canadian military base.
@@ -26,7 +26,7 @@ I'm a 16-year-old developer and hardware enthusiast from Quebec, Canada. I love 
 ### 🌟 Featured Projects
 * **NOMAD:** Natively Open, Modular Architecture Device – an open-source WIP laptop project.
 * **SkyCell:** A prototype telecommunications solution on a balloon for off-grid connectivity.
-* **helper-1:** A 3D printer designed specifically for building plane wings and large-scale objects.
+* **helper-1:** A cheap 3D printer designed specifically for building plane wings and large-scale objects.
 
 ### 📊 GitHub Stats
 
