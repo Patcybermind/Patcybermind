@@ -25,7 +25,7 @@ I'm a 16-year-old developer and hardware enthusiast from Quebec, Canada. I love 
 
 ### 🌟 Featured Projects
 * **NOMAD:** Natively Open, Modular Architecture Device – an open-source WIP laptop project.
-* **SkyCell:** A prototype telecommunications solution on a balloon for off-grid connectivity.
+* **SkyCell:** A prototype research telecommunications solution on a balloon for off-grid connectivity.
 * **helper-1:** A cheap 3D printer designed specifically for building plane wings and large-scale objects.
 
 
