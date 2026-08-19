@@ -4,11 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=70" />
 </p>
 
-I'm a 16-year-old developer and hardware enthusiast from Quebec, Canada. I love bridging the gap between software and the physical world.
+I'm a 17-year-old developer and hardware enthusiast from Quebec, Canada. I love bridging the gap between software and the physical world.
 
 ### 🚀 About Me
 
-- 🔭 **Currently building:** A robotic arm.
+- 🔭 **Currently building:** an fpga based digital radio.
 - 🌱 **Currently learning:** AI / ML, hardware design, and electronics.
 - 👯 **Looking to collaborate on:** Anything fun, interesting, or disruptive in the STEM space! Feel free to jump into any of my open repositories.
 - 🤔 **Seeking:** Mentorship from experienced folks in the STEM, AI, or hardware fields.
