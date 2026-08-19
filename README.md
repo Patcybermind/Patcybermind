@@ -12,7 +12,7 @@ I'm a 17-year-old developer and hardware enthusiast from Quebec, Canada. I love 
 - 🌱 **Currently learning:** AI / ML, hardware design, and electronics.
 - 👯 **Looking to collaborate on:** Anything fun, interesting, or disruptive in the STEM space! Feel free to jump into any of my open repositories.
 - 🤔 **Seeking:** Mentorship from experienced folks in the STEM, AI, or hardware fields.
-- ⚡ **Fun fact:** I've technically fired a "missile" at a Canadian military base.
+- ⚡ **Fun fact:** I've technically "fired" a "missile" at a Canadian military base.
 
 ### 🛠️ Tech Stack & Tools
 
